@@ -1,0 +1,17 @@
+[{
+    "Type": "Electronics",
+    "Name": "Tv stick",
+    "Country": "GB",
+    "Customer": "{\"username\":\"Customer 1\",\"country_code\":\"GB\",\"country_name\":\"United Kingdom\"}",
+    "Timestamp": "2022-04-01T00:00:38.768Z",
+    "Quantity": "1"
+  },
+  {
+    "Type": "Kitchen",
+    "Name": "Water Bottle",
+    "Country": "GB",
+    "Customer": "{\"username\":\"Customer 2\",\"country_code\":\"PL\",\"country_name\":\"Poland\"}",
+    "Timestamp": "2022-07-01T00:00:38.768Z",
+    "Quantity": "10"
+  }
+  ]
